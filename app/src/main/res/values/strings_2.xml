@@ -1,0 +1,25 @@
+<resources>
+    <!-- File can have any name as long as have string element in resources -->
+    <string name="app_name">GeoQuiz</string>
+    <string name="question">Constantinople is the largest city in Turkey.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+
+    <string name="cheat_prompt">Are you sure you want to do this?</string>
+    <string name="cheat_button">Show Answer</string>
+    <string name="dont_know_answer_button">Cheat!</string>
+
+    <string name="judgment_toast">You are a cheater!</string>
+
+
+    <string name="questions_ocean">The Pacific Ocean is bigger than the Atlantic Ocean</string>
+    <string name="questions_continents">There are 8 continents in the world</string>
+    <string name="questions_africa">The source of the Nile River is Egypt</string>
+
+
+</resources>
